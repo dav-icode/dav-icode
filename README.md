@@ -1,4 +1,4 @@
-## Olá, meu nome é  Davi Franco Cosinha
+## Olá, meu nome é  Davi Franco
 - Atualmente dev front-end
 - Estudando Python
 - Aperfeiçoando inglês
