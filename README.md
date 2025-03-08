@@ -1,5 +1,5 @@
 ## Olá, meu nome é  Davi Franco
-- Atualmente dev full-stack
+- Atualmente dev front-end
 - Estudando Python
 - Aperfeiçoando inglês
 - Español intermediario
