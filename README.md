@@ -151,14 +151,14 @@ Sou apaixonado por tecnologia e estou sempre buscando aprender mais para evoluir
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github.com/dav-icode/dav-icode" 
+    src="https://github-readme-stats.vercel.app/api?username=dav-icode&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-     src="https://github.com/dav-icode/dav-icode" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=dav-icode&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
 </p>
