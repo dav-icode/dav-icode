@@ -22,7 +22,7 @@ Sou apaixonado por tecnologia e estou sempre buscando aprender mais para evoluir
             src="https://custom-icon-badges.demolab.com/github/stars/dav-icode?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
-    <a href="https://github.com/Larissakich?tab=followers">
+    <a href="https://github.com/dav-icode?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
