@@ -7,14 +7,7 @@ Tenho conhecimento em JavaScript, HTML, CSS, Bootstrap e React, além de ter con
 Além de estudar e desenvolver projetos, compartilho meu conhecimento através do meu Instagram, no perfil "dev1zx".
 Sou apaixonado por tecnologia e estou sempre buscando aprender mais para evoluir na área!
 
-<p align="left">
-    <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
-        <img 
-            alt="youtube subscribers" 
-            title="Inscreva-se no meu canal" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
-        />
-    </a>
+</a>
     <a href="https://www.youtube.com/@dav1code" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
         <img 
             alt="youtube views" 
@@ -22,7 +15,7 @@ Sou apaixonado por tecnologia e estou sempre buscando aprender mais para evoluir
             src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
         />
     </a> 
-    <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
+    <a href= "https://github.com/dav-icode/dav-icode">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
@@ -124,14 +117,6 @@ Sou apaixonado por tecnologia e estou sempre buscando aprender mais para evoluir
 />
 <img 
     align="left" 
-    alt="Laravel" 
-    title="Laravel"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
-/>
-<img 
-    align="left" 
     alt="JQuery" 
     title="JQuery"
     width="30px" 
@@ -166,14 +151,14 @@ Sou apaixonado por tecnologia e estou sempre buscando aprender mais para evoluir
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github.com/dav-icode/dav-icode" 
   />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+     src="https://github.com/dav-icode/dav-icode" 
   />
 
 </p>
