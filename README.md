@@ -12,6 +12,7 @@ Sou apaixonado por tecnologia e estou sempre buscando aprender mais para evoluir
     </a> 
      <a href="https://instagram.com/dev1zx" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     <a href = "mailto:davi.francosinha@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/davi-franco-cosinha-731496340/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     <a href= "https://github.com/dav-icode/dav-icode">
         <img 
             alt="Total de estrelas" 
