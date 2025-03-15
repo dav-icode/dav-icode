@@ -7,8 +7,8 @@ Tenho conhecimento em JavaScript, HTML, CSS, Bootstrap e React, além de ter con
 Além de estudar e desenvolver projetos, compartilho meu conhecimento através do meu Instagram, no perfil "dev1zx".
 Sou apaixonado por tecnologia e estou sempre buscando aprender mais para evoluir na área!
 
-</a>
-    <a href="https://www.youtube.com/@dav1code" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+<p align="left">
+    <a href="https://www.youtube.com/@dav1code" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank">
         <img 
             alt="youtube views" 
             title="Vizualizações no YouTube" 
