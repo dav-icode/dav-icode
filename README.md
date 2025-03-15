@@ -10,6 +10,7 @@ Sou apaixonado por tecnologia e estou sempre buscando aprender mais para evoluir
 <p align="left">
     <a href="https://www.youtube.com/@dav1code" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank">
     </a> 
+     <a href="https://instagram.com/dev1zx" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     <a href= "https://github.com/dav-icode/dav-icode">
         <img 
             alt="Total de estrelas" 
