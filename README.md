@@ -9,11 +9,6 @@ Sou apaixonado por tecnologia e estou sempre buscando aprender mais para evoluir
 
 <p align="left">
     <a href="https://www.youtube.com/@dav1code" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank">
-        <img 
-            alt="youtube views" 
-            title="Vizualizações no YouTube" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
-        />
     </a> 
     <a href= "https://github.com/dav-icode/dav-icode">
         <img 
