@@ -31,7 +31,7 @@ Sou apaixonado por tecnologia e estou sempre buscando aprender mais para evoluir
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### Linguagens e Tecnologias
 
 <img 
     align="left" 
@@ -141,7 +141,7 @@ Sou apaixonado por tecnologia e estou sempre buscando aprender mais para evoluir
 <br/>
 <br/>
 
-### 📊 Estatísticas
+### Estatísticas
 
 <p>
   <img 
