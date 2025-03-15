@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Davi Franco Cosinha
+# Davi Franco Cosinha
 
 **`Desenvolvedor FullStack`**
 
