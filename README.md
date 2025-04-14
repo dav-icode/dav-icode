@@ -2,8 +2,8 @@
 
 **`Desenvolvedor Fullstack`**
 
-Me chamo Davi Franco Cosinha, tenho 18 anos e sou de São Paulo. Atualmente, curso Análise e Desenvolvimento de Sistemas na UNINTER.
-Tenho conhecimento em JavaScript, HTML, CSS, Bootstrap e React, além de ter concluído um curso de Python pelo Santander Tech e udemy. No momento, estou me aprofundando em Python para expandir minhas habilidades no back-end.
+Me chamo Davi Franco Cosinha, tenho 18 anos e sou de São Paulo. Atualmente, curso Análise e Desenvolvimento de Sistemas.
+Tenho conhecimento em JavaScript, HTML, CSS. No momento, estou me aprofundando em Python e SQL para expandir minhas habilidades no back-end.
 Além de estudar e desenvolver projetos, compartilho meu conhecimento através do meu Instagram, no perfil "dev1zx".
 Sou apaixonado por tecnologia e estou sempre buscando aprender mais para evoluir na área!
 
@@ -59,14 +59,6 @@ Sou apaixonado por tecnologia e estou sempre buscando aprender mais para evoluir
 />
 <img 
     align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
-<img 
-    align="left" 
     alt="React"
     title="React" 
     width="30px" 
@@ -83,38 +75,6 @@ Sou apaixonado por tecnologia e estou sempre buscando aprender mais para evoluir
 />
 <img 
     align="left" 
-    alt="Tailwind" 
-    title="Tailwind"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="SASS" 
-    title="SASS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="PHP" 
-    title="PHP"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JQuery" 
-    title="JQuery"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
-/>
-<img 
-    align="left" 
     alt="Git" 
     title="Git"
     width="30px" 
@@ -128,6 +88,14 @@ Sou apaixonado por tecnologia e estou sempre buscando aprender mais para evoluir
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="SQL-banco-de-dados" 
+    title="SQL"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/SQL/SQL-original.svg" 
 />
 
 <br/>
