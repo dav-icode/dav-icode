@@ -89,14 +89,6 @@ Sou apaixonado por tecnologia e estou sempre buscando aprender mais para evoluir
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
-<img 
-    align="left" 
-    alt="SQL-banco-de-dados" 
-    title="SQL"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/SQL/SQL-original.svg" 
-/>
 
 <br/>
 <br/>
