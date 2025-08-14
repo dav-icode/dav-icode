@@ -3,9 +3,9 @@
 **`Desenvolvedor Fullstack`**
 
 Me chamo Davi Franco Cosinha, tenho 18 anos e sou de São Paulo. Atualmente, curso Análise e Desenvolvimento de Sistemas.
-Tenho conhecimento em JavaScript, HTML, CSS. No momento, estou me aprofundando em Python e SQL para expandir minhas habilidades no back-end.
-Além de estudar e desenvolver projetos, compartilho meu conhecimento através do meu Instagram, no perfil "dev1zx".
-Sou apaixonado por tecnologia e estou sempre buscando aprender mais para evoluir na área!
+Tenho conhecimento em Typescript, React/next, nest.js/node, python e SQL. No momento, estou me aprofundando em frameworks de interface para expandir minhas habilidades no front-end.
+Além de estudar e desenvolver projetos, compartilho meu conhecimento através do meu Instagram, no perfil "_frnq0".
+Sempre buscando aprender mais para evoluir na área!
 
 <p align="left">
     <a href="https://www.youtube.com/@dav1code" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank">
