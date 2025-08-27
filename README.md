@@ -3,6 +3,7 @@
 **`Desenvolvedor Fullstack`**
 
 Me chamo Davi, tenho 18 anos e sou de São Paulo. Atualmente, curso Análise e Desenvolvimento de Sistemas.. Atuo como dev fullstack.
+
 Tenho conhecimento em Typescript, React/next, nest.js/node, python, Bancos relácionais e ERPs. No momento, estou me aprofundando em frameworks de interface para expandir minhas habilidades no front-end e sua integração ao back ou chamada direta.
 Além de estudar e desenvolver projetos, compartilho meu conhecimento através do meu Instagram, no perfil "_frnq0".
 Sempre buscando aprender mais para evoluir na área!
