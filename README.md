@@ -2,8 +2,8 @@
 
 **`Desenvolvedor Fullstack`**
 
-Me chamo Davi Franco Cosinha, tenho 18 anos e sou de São Paulo. Atualmente, curso Análise e Desenvolvimento de Sistemas.
-Tenho conhecimento em Typescript, React/next, nest.js/node, python e SQL. No momento, estou me aprofundando em frameworks de interface para expandir minhas habilidades no front-end.
+Me chamo Davi, tenho 18 anos e sou de São Paulo. Atualmente, curso Análise e Desenvolvimento de Sistemas.. Atuo como dev fullstack.
+Tenho conhecimento em Typescript, React/next, nest.js/node, python, Bancos relácionais e ERPs. No momento, estou me aprofundando em frameworks de interface para expandir minhas habilidades no front-end e sua integração ao back ou chamada direta.
 Além de estudar e desenvolver projetos, compartilho meu conhecimento através do meu Instagram, no perfil "_frnq0".
 Sempre buscando aprender mais para evoluir na área!
 
@@ -51,11 +51,11 @@ Sempre buscando aprender mais para evoluir na área!
 />
 <img 
     align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
+    alt="TypeScript" 
+    title="TypeScript"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
 />
 <img 
     align="left" 
@@ -67,11 +67,27 @@ Sempre buscando aprender mais para evoluir na área!
 />
 <img 
     align="left" 
+    alt="Next"
+    title="Next" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/next/next-original.svg" 
+/>
+<img 
+    align="left" 
     alt="Bootstrap"
     title="Bootstrap" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Tailwindcss"
+    title="Tailwindcss" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
 />
 <img 
     align="left" 
