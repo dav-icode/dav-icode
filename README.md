@@ -23,7 +23,7 @@
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px"> **About Me**
 
-[<img align="right" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">](https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif)
+<img align="right" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
 ```typescript
 const daviProfile = {
@@ -66,7 +66,7 @@ const daviProfile = {
 
 <div align="center">
 
-###  **Frontend Development**
+###   **Frontend Development**
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -75,25 +75,25 @@ const daviProfile = {
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
-### ⚙ **Backend Development**
+###  **Backend Development**
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 
-###  **UI Frameworks**
+###   **UI Frameworks**
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 
-### 🗄 **Database & Cloud**
+### 🗄  **Database & Cloud**
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-###  **DevOps & Tools**
+### 🛠️ **DevOps & Tools**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
@@ -103,11 +103,13 @@ const daviProfile = {
 
 <br/>
 
-##  **GitHub Analytics**
+##   **GitHub Analytics**
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dav-icode&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=f0f0f0&icon_color=00d9ff&text_color=a9a9a9&border_radius=15"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dav-icode&layout=compact&langs_count=10&theme=radical&hide_border=true&bg_color=0d1117&title_color=f0f0f0&text_color=a9a9a9&border_radius=15"/>
+  <a href="https://github.com/dav-icode">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dav-icode&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dav-icode&layout=compact&langs_count=8&theme=radical"/>
+  </a>
 </div>
 
 <div align="center">
@@ -116,7 +118,7 @@ const daviProfile = {
 
 <br/>
 
-##  **Contribution Graph**
+##   **Contribution Graph**
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=dav-icode&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph" width="100%"/>
@@ -124,7 +126,7 @@ const daviProfile = {
 
 <br/>
 
-##  **GitHub Trophies**
+##   **GitHub Trophies**
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=dav-icode&theme=radical&no-frame=true&no-bg=false&column=7&margin-w=15&margin-h=15" />
@@ -132,11 +134,11 @@ const daviProfile = {
 
 <br/>
 
-## 💻 **Current Projects & Focus**
+##   **Current Projects & Focus**
 
 <div align="center">
   
-|  **Area** |  **Currently Learning** |  **Goals** |
+|   **Area** |   **Currently Learning** |   **Goals** |
 |-------------|---------------------------|--------------|
 | **Frontend** | Advanced React Patterns, Micro-frontends | Build scalable UI architectures |
 | **Backend** | Microservices, GraphQL, gRPC | Design distributed systems |
@@ -147,7 +149,7 @@ const daviProfile = {
 
 <br/>
 
-## 📝 **Latest Activity**
+##   **Latest Activity**
 
 <!--START_SECTION:activity-->
 ```mermaid
@@ -171,20 +173,20 @@ graph TD
 
 <br/>
 
-##  **2025 Goals**
+##   **2025 Goals**
 
--  Master advanced microservices architecture
--  Deploy 3+ production mobile applications  
--  Contribute to major open-source projects
--  Share knowledge through technical articles
--  Complete cloud certifications (AWS/Azure)
--  Build innovative solutions that impact lives
+-   Master advanced microservices architecture
+-   Deploy 3+ production mobile applications  
+-   Contribute to major open-source projects
+-   Share knowledge through technical articles
+-   Complete cloud certifications (AWS/Azure)
+-   Build innovative solutions that impact lives
 
 <br/>
 
 <div align="center">
   
-###  **"Code is poetry, and I'm writing my masterpiece"** 
+###   **"Code is poetry, and I'm writing my masterpiece"**  
 
 </div>
 
@@ -199,5 +201,5 @@ graph TD
 </div>
 
 <div align="center">
-  <b>Thanks for visiting! Let's connect and build something amazing together! </b>
+  <b>Thanks for visiting! Let's connect and build something amazing together!  </b>
 </div>
