@@ -1,8 +1,4 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Davi%20Franco%20Cosinha&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Fullstack%20Developer%20%7C%20ERP%20%26%20SaaS%20Specialist%20%7C%20Building%20real%20things%20since%2016&descAlignY=58&descSize=16"/>
-</div>
-
-<div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=21&pause=800&color=1A56DB&center=true&vCenter=true&random=false&width=700&lines=Fullstack+Developer+%40+N4Link+%F0%9F%9A%80;5+production+systems+shipped+%F0%9F%93%A6;SAP+%7C+TOTVS+Protheus+%7C+Datasul+integrations;React+%E2%80%A2+Next.js+%E2%80%A2+NestJS+%E2%80%A2+TypeScript;19+yo+%7C+Boituva%2C+SP+%F0%9F%87%A7%F0%9F%87%B7" alt="Typing SVG" />
 </div>
 
