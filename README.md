@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=21&pause=800&color=1A56DB&center=true&vCenter=true&random=false&width=700&lines=Fullstack+Analyst+%40+N4Link+%7C+CLT+%F0%9F%9A%80;5+production+systems+shipped+%F0%9F%93%A6;SAP+%7C+TOTVS+Protheus+%7C+Datasul+integrations;React+%E2%80%A2+Next.js+%E2%80%A2+NestJS+%E2%80%A2+TypeScript;18+yo+%7C+Boituva%2C+SP+%F0%9F%87%A7%F0%9F%87%B7" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=21&pause=800&color=1A56DB&center=true&vCenter=true&random=false&width=700&lines=Fullstack+Developer+%40+N4Link+%F0%9F%9A%80;5+production+systems+shipped+%F0%9F%93%A6;SAP+%7C+TOTVS+Protheus+%7C+Datasul+integrations;React+%E2%80%A2+Next.js+%E2%80%A2+NestJS+%E2%80%A2+TypeScript;18+yo+%7C+Boituva%2C+SP+%F0%9F%87%A7%F0%9F%87%B7" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -27,21 +27,12 @@
 ```typescript
 const davi = {
   age:      18,
-  role:    "Fullstack Analyst @ N4Link (CLT)",
   based:   "Boituva, SP — Brasil",
 
-  // What I ship at work
-  atN4Link: [
-    "Enterprise SaaS integration platform",
-    "SAP Event Mesh + RabbitMQ pipelines",
-    "PostgreSQL migration · CVE security patch",
-    "Multilingual technical docs (PT/EN)",
-  ],
-
-  // What I build independently
-  pjProjects: [
+  working: [
+    "N4Link — middleware & ERP integration platform",
     "Suhai — inspection system with AI transcription",
-    "Virggo — corporate mobile app (TOTVS + Capacitor)",
+    "Virggo (TRIYO) — corporate mobile app + TOTVS",
     "Codaro — live SaaS with Stripe + Telegram engine",
     "JRC/MB8 — public tender platform (Oracle Cloud)",
   ],
