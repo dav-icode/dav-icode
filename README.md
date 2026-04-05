@@ -26,8 +26,8 @@
 
 ```typescript
 const davi = {
-  age:      18,
-  based:   "Boituva, SP — Brasil",
+  age:      19,
+  based:   "SP — Brasil",
 
   working: [
     "N4Link — middleware & ERP integration platform",
